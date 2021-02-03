@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'star-icons';
+  src: url('star-icons.ttf@1e90cd8c4c70e95bf450c0b0f54d2e3d') format('truetype'),
+    url('star-icons.eot@1e90cd8c4c70e95bf450c0b0f54d2e3d') format('embedded-opentype'),
+    url('star-icons.woff@1e90cd8c4c70e95bf450c0b0f54d2e3d') format('woff'),
+    url('star-icons.svg@1e90cd8c4c70e95bf450c0b0f54d2e3d') format('svg'); }
+
+
+/*# sourceMappingURL=59.css.map?v=3300c9f039e732a254fe*/

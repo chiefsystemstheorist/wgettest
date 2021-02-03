@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100%" height="100%" viewBox="0 0 20 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>icons/filled/reply</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M10.4666667,8.26666667 L10.4666667,4 L3,11.4666667 L10.4666667,18.9333333 L10.4666667,14.56 C15.8,14.56 19.5333333,16.2666667 22.2,20 C21.1333333,14.6666667 17.9333333,9.33333333 10.4666667,8.26666667 Z" id="path-1"></path>
+    </defs>
+    <g id="Conversations" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-99.000000, -4.000000)">
+            <g id="icons/filled/reply" transform="translate(96.000000, 0.000000)">
+                <g>
+                    <rect id="bounds" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+                    <g id="icon-reply" fill-rule="nonzero">
+                        <use fill="#333333" xlink:href="#path-1"></use>
+                        <use fill="#0072BC" xlink:href="#path-1"></use>
+                        <use fill="#00548B" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
